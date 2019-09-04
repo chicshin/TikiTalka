@@ -1,8 +1,8 @@
-## Welcome to TikiTalka
+# Welcome to TikiTalka
 
 Real-time chat application with multiple users in ios devices.
 
-# Screenshots
+## Screenshots
 
 <div>
   <img width="200" src=
