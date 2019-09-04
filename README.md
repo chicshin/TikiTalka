@@ -1,6 +1,6 @@
 ## Welcome to TikiTalka
 
-Real-time chat application with multiple users in ios.
+Real-time chat application with multiple users in ios devices.
 
 # Screenshots
 
